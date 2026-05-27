@@ -105,6 +105,7 @@ support_locales = [
     "zh-TW",
     "de-DE",
     "en-US",
+    "es-ES",
     "fr-FR",
     "vi-VN",
     "th-TH",
